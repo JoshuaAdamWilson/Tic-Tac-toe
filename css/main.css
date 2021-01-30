@@ -1,0 +1,24 @@
+
+/*  Put your CSS Here */
+table, div {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+td {
+    text-align: center;
+    font-size: 130px;
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+  }
+
+  td:hover {
+    background: teal;
+  }
+
+  table {
+    border: 2px solid green;
+  }
+
